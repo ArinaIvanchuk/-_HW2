@@ -12,7 +12,7 @@
 //     num++;
          
 // }
-// if (N == 0)
+// if (N <= 0)
 // {
 //     Console.WriteLine("incorrect number");
 // }
@@ -49,7 +49,7 @@
 //  {
 //      Console.WriteLine(num + " palindrome");
 //  }
-//  else if (num < 10000)
+//  else if (num < 10000 || num > 99999)
 //  {
 //     Console.WriteLine("incorrect number");
     
